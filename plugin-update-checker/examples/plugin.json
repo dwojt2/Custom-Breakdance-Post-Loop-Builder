@@ -1,0 +1,16 @@
+{
+    "name": "Random String Generator",
+    "version": "3.1.1",
+    "download_url": "https://wojtysiak.one/",
+    "homepage": "https://wojtysiak.one/",
+    "requires": "4.5",
+    "tested": "6.3",
+    "last_updated": "2023-09-26 18:33:00",
+    "upgrade_notice": "Improved settings experience!",
+    "author": "Dominik Wojtysiak",
+    "author_homepage": "https://wojtysiak.one/about/",
+    "sections": {
+        "description": "Generates a random string. Use: [random_string]",
+        "changelog": "Changelog. <p>Since 3.1.1: Improved spacing in the settings page.</p>"
+    }
+}
